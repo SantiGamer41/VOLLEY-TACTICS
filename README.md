@@ -1,2 +1,2 @@
 # VOLLEY-TACTICS
-Repositorio a las pruebas https://github.com/SantiGamer41/prueba-de-mecanicas.git
+Repositorio al proyecto https://github.com/SantiGamer41/prueba-de-mecanicas.git
